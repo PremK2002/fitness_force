@@ -1,0 +1,652 @@
+.head-container{
+    position: static;
+}
+.logo-container{
+    margin-left: 300px;
+}
+.icon1-container{
+  border: solid;
+  margin-left: 250px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  border-color: rgb(248, 252, 255);
+}
+.icon2-container{
+  border: solid;
+  margin-left: 80px; 
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border-color: rgb(248, 252, 255);
+}
+.icon3-container{
+  border: solid;
+  margin-left: 80px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  border-color: rgb(248, 252, 255);
+}
+.navbar-container{
+  display: flex;
+  background-color: orangered;
+  color: white;
+  padding-left: 300px;
+  height: 55px;
+  text-decoration: none;
+}
+.navbar{
+  text-decoration: none;
+  color: white;
+}
+.get-started{
+  background-color: black;
+  color: white;
+  padding-left: 80px;
+  padding-right: 80px;
+  font-size: 10px;
+  margin-left: 100px;
+  border-top-left-radius: 90px;
+  border-style: none;
+}
+.menu-container{
+  background-image: url(background1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  height: 400px;
+  position: static;
+}
+.text-container{
+  margin-left: 300px;
+  margin-top: 90px ;
+}
+.poster-container{
+  margin-right: 200px;
+  margin-top: 15px;
+  background-size: cover;
+}
+.read{
+  background-color: orangered;
+  color: white;
+  font-size: 11px;
+  padding: 10px;
+  padding-left:15px ;
+  padding-right:15px ;
+  border-style: inherit;
+}
+.contact{
+  background-color: black;
+  color: white;
+  font-size: 12px;
+  padding: 7px;
+  padding-left:13px ;
+  padding-right:13px ;
+border-bottom-color: white;
+}
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px -5px; 
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 50PX;
+  }
+.image-container img {
+  width: 30%;
+  height: auto;
+  margin: 0 5px;
+}
+.corosoul-container{
+    width: 300px;
+    height: 25px;
+}
+.best-container{
+    position: static;
+}
+.gym-container{
+  padding-left: 320px;
+}
+.list1{
+  color: darkgrey;
+    font-size: 12px;
+    list-style-image: url(check-circle.svg);
+}
+.data{
+  border: solid;
+  background-color: orangered;
+  color: white;
+  padding: 30px;
+}
+.discountpoints-container{
+  color: white;
+  background-image: url(background2.jpg);
+  background-size: cover;
+  background-color: brown;
+  padding-left: 300px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  width: 800px;
+  height: 300px;
+  font-size: 13px;
+}
+.discount-container{
+  background-color: aquamarine;
+  width: 700px;
+  height: 300px;
+  background-image: url(background4.webp);
+  background-size: cover;
+}
+.slide{
+  display: flex;
+  height: 300px;
+}
+.poster2{
+  height: 300px;
+  width: 250px;
+  margin-top: 30px;
+  margin-left: 0px;
+}
+.poster3{
+  height: 300px;
+  width: 250px;
+  margin-top: 30px;
+  margin-left: 0px;
+}
+.getservice{
+  color: white;
+  background-color: brown;
+  border-radius: 25px;
+  font-size: 12px;
+  border: inherit; 
+  padding: 8px;
+  margin-left: 12px;
+}
+
+.class-container {
+  display: flex;
+  height: 400px;
+}
+.types22-container{
+  padding-left: 8px;
+  padding-top: 5px;
+  border:solid;
+  border-color: rgb(216, 212, 212);
+  border-left-width: 5px;
+  border-left-color: orangered;
+}
+.types23-container{
+  display: flex;
+  border:solid;
+  border-color:  rgb(216, 212, 212);
+  border-left-width: 5px;
+  border-left-color: orangered;
+}
+.box1{
+  margin-left: 310px;
+  margin-top: 20px;
+}
+.loo{
+  border-radius: 25px;
+  margin-left: 5px;
+  margin-top: 6px;
+}
+.trainer-name{
+  color: dimgray;
+  font-size: 10px;
+  margin-top: 7px;
+  margin-left:5px;
+}
+.join-now{
+  font-size: 12px;
+  margin-left: 70px;
+  margin-top: 18px;
+  text-decoration: none;
+  color: dimgray;
+}
+.box2{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.box3{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.join-now1{
+  font-size: 12px;
+  margin-left: 70px;
+  margin-top: 18px;
+  text-decoration: none;
+  color: orangered;
+}
+.box4{
+  margin-left: 200px;
+  margin-top: 20px;
+}
+.box5{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.box6{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.list2{
+  list-style-image: url(arrow-left.svg);
+}
+.classline{
+  color: darkgrey;
+  margin-left: 420px;
+}
+.slide1{
+  display: flex;
+  height: 300px;
+}
+.types12-container{
+  display: flex;
+  border:solid;
+  padding-left: 8px;
+  padding-top: 5px;
+  border-color: white;
+  border-left-width: 8px;
+  border-left-color: orangered;
+}
+.text1{
+  margin-left: 300px;
+  margin-top: 50px;
+}
+.png1{
+  margin-top: 5px;
+  margin-left: 75px;
+}
+.text2{
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.png2{
+  margin-top: 5px;
+  margin-left: 75px;
+}
+.png3{
+  margin-top: 5px;
+  margin-left: 120px;
+}
+.text3{
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.png4{
+  margin-top: 5px;
+  margin-left: 120px;
+}
+.png5{
+  margin-top: 5px;
+  margin-left: 120px;
+}
+.png6{
+  margin-top: 5px;
+  margin-left: 50px;
+}
+.text4{
+  margin-left: 300px;
+  margin-top: 50px;
+}
+.text5{
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.text6{
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.BMI-container{
+  background-image: url(background3.jpg);
+  background-size: cover;
+  background-blend-mode: darken;
+  height: 320px;
+  font-size: 12px;
+}
+.textbmi-container{
+  color: white;
+  font-size: 12px;
+  margin-left: 300px;
+  margin-top: 50px;
+  width: 350px;
+}
+.table2{
+  color: rgb(43, 39, 39);
+  background-color: white;
+  margin-top: 50px;
+  width: 300px;
+  height: 30px;
+  position: relative;
+}
+.poster4{
+  margin-top: 20px;
+  margin-right: 120px;
+  position: absolute;
+  right:130px;
+}
+.bmi-list{
+  margin-top: 12px;
+}
+.calculate{
+  background-color: orangered;
+  color: white;
+  padding: px;
+  padding-left: 18px;
+  padding-right: 18px;
+  font-size: 15px;
+  border-style: inherit;
+  margin-top: 15px;
+  border-radius:2px ;
+}
+.expert2{
+  margin-left: 6px;
+  background-color: orangered;
+  margin-top: 8px;
+}
+.expert11{
+  border: solid;
+  background-color: black;
+  border-color: black;
+  padding: 15px;
+  margin-left: 80px;
+}
+.expert22{
+  border: solid;
+  background-color: black;
+  border-color: black;
+  padding: 15px;
+  margin-left: 84px;
+}
+.expert33{
+  border: solid;
+  background-color: black;
+  border-color: black;
+  padding: 15px;
+  margin-left: 89.5px;
+}
+.erpert1-container{
+  position: relative;
+}
+.firstexpert-container{
+  display: flex;
+  width: 230px;
+  background-color: orangered;
+  position: absolute;
+  left: 333px;
+  top: 410px;
+}
+.first-container{
+  margin-left: 310px;
+  margin-top: 50px;
+}
+.second-container{
+  margin-left: 20px;
+  margin-top: 50px;
+}
+.expert2-container{
+  position: relative;
+}
+.secondexpert-container{
+  position: absolute;
+  display: flex;
+  width: 230px;
+  background-color: orangered;
+  left: 603px;
+  top: 410px;
+}
+.third-container{
+  margin-left: 20px;
+  margin-top: 50px;
+}
+.expert3-container{
+  position: relative;
+}
+.thirdexpert-container{
+  position: absolute;
+  display: flex;
+  width: 230px;
+  background-color: orangered;
+  left: 872px;
+  top: 410px;
+}
+.expertline{
+  color: darkgrey;
+  margin-left: 310px;
+  margin-right: 300px;
+}
+.tabletrainer-container{
+  height: 200px;
+  width: 200;
+  margin-left: 200px;
+}
+.trainertable-container{
+  text-align: center;
+  font-size: 10px;
+  color: lightslategray;
+  margin-left: 310px;
+  border: solid;
+  width: 800px;
+  border-radius: 2px;
+  padding: 25px;
+  border-color: aliceblue;
+  background-color: azure;
+}
+.colortable{
+  width: 745px;
+}
+.trainer{
+  border: solid;
+  margin-left: 2px;
+  margin-top: 2px;
+  border-radius: 25px;
+  border-color: white;
+}
+.history-table{
+  font-size: 10px;
+}
+.videoclass{
+  margin-left: 180px;
+}
+.history-container{
+  padding-top: 45px;
+  padding-left: 80px;
+}
+.silver-container{
+  border: solid;
+  text-align: center;
+  margin-left: 345px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  padding-left: 58px;
+  padding-right: 58px;
+  border-color: darkgrey;
+  border-top-color: orangered;
+  border-radius: 3px;
+}
+.gold-container{
+  border: solid;
+  text-align: center;
+  margin-left: 50px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  padding-left: 56px;
+  padding-right: 56px;
+  border-color: darkgrey;
+  border-radius: 3px;
+}
+.diamond-container{
+  border: solid;
+  text-align: center;
+  margin-left: 50px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-color: darkgrey;
+  border-bottom-color: orangered;
+  border-radius: 3px;
+}
+.choose-pack1{
+  font-size: 10px;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  color: darkgray;
+  background-color: white;
+  border-color: darkgrey;
+  border-radius: 12px;
+}
+.choose-pack2{
+  font-size: 10px;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  color: orangered;
+  border-color: orangered;
+  background-color: white;
+  border-radius: 12px;
+}
+.newslatter-container{
+  background-color:dimgray;
+  height: 150px;
+}
+.sub-container{
+  color: white;
+  margin-left: 330px;
+  font-size: 12px;
+  margin-top: 40px;
+}
+.newslatter-container{
+  background-image: url(background4.webp);
+  background-size: cover;
+}
+.email-container{
+  margin-left: 140px;
+  margin-top: 60px;
+  position: relative;
+}
+.send-container{
+  position: absolute;
+  margin-left: 1070px;
+  margin-top: 60px;
+}
+.button{
+  color: dimgray;
+  background-color: white;
+  border-radius: 12px;
+  padding-right: 150px;
+  padding-left: 20px;
+  border-style: inherit;
+}
+.tip1-container{
+  margin-left: 350px;
+  border: solid;
+  color: orangered;
+}
+.tip2-container{
+margin-left: 70px;
+ border: solid;
+ color:orangered;
+}
+.tip3-container{
+ margin-left: 70px;
+ border: solid;
+ color: orangered;
+}
+.footer-row{
+  display: flex;
+  background-color: black;
+  height: 260px;
+}
+.footer1-col{
+  color: white;
+  width: 180px;
+  margin-left: 350px;
+  margin-top: 50px;
+}
+.footer2-col{
+  color: white;
+  margin-left: 80px;
+  margin-top: 50px;
+}
+.footer3-col{
+  color: white;
+  margin-left: 80px;
+  margin-top: 50px;
+}
+.footer4-col{
+  color: white;
+  margin-left: 80px;
+  margin-top: 50px;
+}
+.mail{
+  background-color: rgb(12, 12, 12);
+  font-size: 10px;
+  padding-left:5px;
+  border-radius: 5px;
+  border-style: inherit;
+  padding: 8px;
+}
+.mail-container{
+  display: flex;
+}
+.mailsymbol-container{
+  border: solid;
+  background-color:  rgb(12, 12, 12);
+  border-style: inherit;
+  padding-top: 5px;
+  border-radius: 5px;
+  padding-left: 1px;
+  padding-right: 1px;
+}
+.form1{
+  background-color: rgb(12, 12, 12);
+  font-size: 12px;
+  padding-left: 5px;
+  border-radius: 5px;
+  border-style: inherit;
+  padding: 8px;
+}
+.subscribe-now{
+  background-color: orangered;
+  color: white;
+  font-size: 12px;
+  padding-left: 41px;
+  padding-right: 41px;
+  border-style: inherit;
+  border-radius: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.svg{
+  border: solid;
+  border-color: white;
+  border-radius: 25px;
+  padding: 1px;
+  border-style: hidden;
+  margin-top: 1px;
+}
+.facebook{
+  border: solid;
+  border-color: black;
+  border-radius: 25px;
+  padding: 3px;
+  background-color: orangered;
+}
+.class{
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-size: 12px;
+  padding: 5px;
+  border: solid;
+  border-color: rgb(15, 15, 15);
+}
+
